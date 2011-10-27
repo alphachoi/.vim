@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/alpha/.vim'
+let g:netrw_dirhist_2='/Users/alpha/.ssh'
+let g:netrw_dirhist_3='/Users/alpha/Sites/Ylmf/www.demo.114la.com/web/html/public/page/style'
+let g:netrw_dirhist_4='/Users/alpha/Downloads/OpenInTextMate_MacVim/OpenInMacVim.app'
+let g:netrw_dirhist_5='/Users/Alpha/.oh-my-zsh/plugins'
